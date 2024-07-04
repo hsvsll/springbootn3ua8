@@ -1,0 +1,34 @@
+Manifest-Version: 1.0
+Main-Class: com.SpringbootSchemaApplication
+Class-Path: json-20160810.jar jackson-datatype-jdk8-2.10.1.jar stax-api-
+ 1.0.1.jar hutool-all-4.0.12.jar shiro-web-1.3.2.jar spring-boot-autocon
+ figure-2.2.2.RELEASE.jar mybatis-spring-boot-autoconfigure-3.0.0.jar sn
+ akeyaml-1.25.jar jsqlparser-4.4.jar spring-expression-5.2.2.RELEASE.jar
+  log4j-to-slf4j-2.12.1.jar mybatis-spring-boot-starter-3.0.0.jar common
+ s-beanutils-1.8.3.jar jakarta.validation-api-2.0.1.jar jackson-module-p
+ arameter-names-2.10.1.jar jackson-databind-2.10.1.jar spring-boot-2.2.2
+ .RELEASE.jar logback-classic-1.2.3.jar spring-jcl-5.2.2.RELEASE.jar log
+ back-core-1.2.3.jar commons-codec-1.13.jar slf4j-api-1.7.29.jar spring-
+ boot-configuration-processor-2.2.2.RELEASE.jar spring-boot-starter-tomc
+ at-2.2.2.RELEASE.jar hibernate-validator-6.0.18.Final.jar tomcat-embed-
+ core-9.0.29.jar jul-to-slf4j-1.7.29.jar spring-context-5.2.2.RELEASE.ja
+ r jackson-annotations-2.10.1.jar dom4j-1.6.1.jar spring-boot-starter-js
+ on-2.2.2.RELEASE.jar commons-io-2.5.jar spring-beans-5.2.2.RELEASE.jar 
+ tomcat-embed-el-9.0.29.jar mybatis-3.5.11.jar mybatis-plus-annotation-3
+ .5.3.1.jar protobuf-java-3.10.0.jar spring-tx-5.2.2.RELEASE.jar mybatis
+ -spring-3.0.0.jar validation-api-2.0.1.Final.jar xmlbeans-2.3.0.jar jav
+ a-sdk-4.4.1.jar HikariCP-3.4.1.jar commons-lang3-3.0.jar spring-boot-st
+ arter-validation-2.2.2.RELEASE.jar tomcat-embed-websocket-9.0.29.jar my
+ sql-connector-java-8.0.18.jar classmate-1.5.1.jar jackson-datatype-jsr3
+ 10-2.10.1.jar spring-webmvc-5.2.2.RELEASE.jar jboss-logging-3.4.1.Final
+ .jar mybatis-plus-core-3.5.3.1.jar xml-apis-1.0.b2.jar fastjson-1.2.8.j
+ ar spring-jdbc-5.2.2.RELEASE.jar spring-boot-starter-web-2.2.2.RELEASE.
+ jar mybatisplus-spring-boot-starter-1.0.5.jar poi-ooxml-3.9.jar spring-
+ aop-5.2.2.RELEASE.jar spring-boot-starter-logging-2.2.2.RELEASE.jar spr
+ ing-core-5.2.2.RELEASE.jar poi-ooxml-schemas-3.9.jar mybatis-plus-3.5.3
+ .1.jar log4j-1.2.17.jar spring-boot-starter-2.2.2.RELEASE.jar mybatis-p
+ lus-extension-3.5.3.1.jar spring-boot-starter-jdbc-2.2.2.RELEASE.jar lo
+ g4j-api-2.12.1.jar mssql-jdbc-6.2.0.jre8.jar jakarta.annotation-api-1.3
+ .5.jar spring-web-5.2.2.RELEASE.jar jackson-core-2.10.1.jar shiro-sprin
+ g-1.3.2.jar shiro-core-1.3.2.jar poi-3.11.jar
+
